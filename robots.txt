@@ -1,0 +1,2 @@
+User-agent: Yandex
+Sitemap: https://auto-side.ru/sitemap.txt
