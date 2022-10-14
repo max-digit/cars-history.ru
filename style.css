@@ -9,6 +9,30 @@
     margin-top:0; 
     margin-bottom:0; 
     padding:0px; 
+  }
+  
+  .banner {
+    display: none;
+  }
+
+  .wheels {
+    display: none;
+  }
+
+  .go {
+    display: none;
+  }
+
+  main {
+    background-color: white;
+  }
+}
+
+@media screen and (min-width:300px) {
+  body {
+    margin-top:0; 
+    margin-bottom:0; 
+    padding:0px; 
     background-image: url(images/asphalt-4.jpg);
     background-attachment:fixed;
   }
